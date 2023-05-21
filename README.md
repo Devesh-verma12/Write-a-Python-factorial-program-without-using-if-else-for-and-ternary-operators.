@@ -1,0 +1,1 @@
+# Write-a-Python-factorial-program-without-using-if-else-for-and-ternary-operators.
